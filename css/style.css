@@ -1,0 +1,47 @@
+/*font-family start*/
+
+/*common css start*/
+/*body{
+	font-family: 'PT Sans', sans-serif;
+	font-size: 16px;
+	font-weight: 400;
+	color: ;
+}*/
+
+
+
+/*common css end*/
+/*header start*/
+
+
+/*header end*/
+.box{
+	min-height: 200px;
+}
+.box_1{
+	min-height: 100px;
+}
+/*aos*/
+.img_item img{
+	border-radius: 15px;
+}
+
+
+/*slick*/
+.wrapper_1{
+	margin: 50px 0;
+
+}
+.demo{
+ 	padding: 0 10px;
+ }
+
+.hello{
+	margin: 100px 0;
+}
+
+/*parallax*/
+.parallax-window {
+    min-height: 600px;
+    background: transparent;
+}
